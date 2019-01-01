@@ -1,0 +1,2 @@
+He tenido problemas con Linux estos días y he tenido que hacer los ejercicios en Windows.
+Por eso no se si el fichero makefile funciona. Ni si los programas compilaran (aunque en windows sí lo han hecho).
